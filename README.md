@@ -27,14 +27,14 @@ Skills: C, C++, Java, Spring Boot, PHP, Laravel, JavaScript, Android etc...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sagarkathariya)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarkathariya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgrkathariya)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagarkathariya&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sagarkathariya)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sgrkathariya)  
 
-![GitHub metrics](https://metrics.lecoq.io/Sagarkathariya)  
+![GitHub metrics](https://metrics.lecoq.io/sgrkathariya)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sagarkathariya)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sgrkathariya)  
 
-![Profile views](https://gpvc.arturi
+![Profile views](https://gpvc.arturio.dev/sgrkathariya)
