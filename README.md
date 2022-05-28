@@ -2,11 +2,11 @@
 #### A TeCH Enthusiast
 ![A TeCH Passionate](https://pbs.twimg.com/profile_banners/549129894/1653728966/1500x500)
 
-A Tech passionate From Dhangadhi. My current Interest in Java, Spring Boot, Angular, ASP.NET, JavaScript & Mobile Application Development.
+A Tech passionate From Dhangadhi. My Interest is in Java, Spring Boot, Angular, JavaScript, Cloud Computing & Mobile Application Development.
 
-Skills: C, C++, Java, Spring Boot, JavaScript, ASP.NET etc...
+Skills: C, C++, Java, Spring Boot, PHP, Laravel, JavaScript, Android etc...
 
-- 🌱 I’m currently learning Angular, ASP.NET, Java, Spring Boot, JavaScript, Mobile Application Development. 
+- 🌱 Currently I’m learning Angular, Java, Spring Boot, JavaScript, Cloud Computing, Mobile Application Development. 
 - 📫 How to reach me: **sgrkathariya@gmail.com**
 
 
@@ -37,4 +37,4 @@ Skills: C, C++, Java, Spring Boot, JavaScript, ASP.NET etc...
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sagarkathariya)  
 
-![Profile views](https://gpvc.arturio.dev/Sagarkathariya)  
+![Profile views](https://gpvc.arturi
