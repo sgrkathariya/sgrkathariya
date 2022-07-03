@@ -33,8 +33,6 @@ Skills: C, C++, Java, Spring Boot, PHP, Laravel, JavaScript, Android etc...
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sgrkathariya)  
 
-![GitHub metrics](https://metrics.lecoq.io/sgrkathariya)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sgrkathariya)  
 
 ![Profile views](https://gpvc.arturio.dev/sgrkathariya)
