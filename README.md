@@ -7,7 +7,7 @@ A Tech passionate From Dhangadhi. My Interest is in Java, Spring Boot, Angular, 
 Skills: C, C++, Java, Spring Boot, PHP, Laravel, JavaScript, Android etc...
 
 - 🌱 Currently I’m learning Angular, Java, Spring Boot, JavaScript, Cloud Computing, Mobile Application Development. 
-- 📫 How to reach me: **sgrkathariya@gmail.com**
+- 📫 How to reach me: **info@sagarkathariya.com.np**
 
 
 <h3 align="left">Connect with me:</h3>
