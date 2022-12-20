@@ -1,7 +1,7 @@
 ## Hi 👋, I'm SAGAR KATHARIYA
 ### A TeCH Enthusiast, Web Developer
 
-A Tech passionate interested and learning .NET, Angular, Cloud Computing, DevOps & Flutter.
+A Tech Passionate interested and learning .NET, Angular, Cloud Computing, DevOps & Flutter.
 
 Skills: C, C++, Core Java, PHP, Laravel, .NET, Flutter, Angular etc...
 
