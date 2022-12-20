@@ -1,4 +1,4 @@
-### Hi 👋, I'm SAGAR KATHARIYA
+## Hi 👋, I'm SAGAR KATHARIYA
 ### A TeCH Enthusiast
 ###### Web Developer
 
