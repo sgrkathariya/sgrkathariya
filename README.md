@@ -5,7 +5,7 @@ A Tech passionate From Dhangadhi. My Interest is in .NET, Angular, Cloud Computi
 
 Skills: C, C++, Java, Spring Boot, PHP, Laravel, JavaScript, Android etc...
 
-- 🌱 Currently I’m learning Angular, Java, Spring Boot, JavaScript, Cloud Computing, Mobile Application Development. 
+- 🌱 Currently I’m learning Angular, .NET, Flutter & DevOps. 
 - 📫 How to reach me: **info@sagarkathariya.com.np**
 
 
