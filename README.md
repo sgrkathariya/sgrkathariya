@@ -1,11 +1,10 @@
 ### Hi 👋, I'm SAGAR KATHARIYA
 #### A TeCH Enthusiast
 
-A Tech passionate From Dhangadhi. My Interest is in .NET, Angular, Cloud Computing, DevOps & Mobile Application Development.
+A Tech passionate interested and learning .NET, Angular, Cloud Computing, DevOps & Flutter.
 
-Skills: C, C++, Java, Spring Boot, PHP, Laravel, JavaScript, Android etc...
+Skills: C, C++, Core Java, PHP, Laravel, .NET, Flutter, Angular etc...
 
-- 🌱 Currently I’m learning Angular, .NET, Flutter & DevOps. 
 - 📫 How to reach me: **info@sagarkathariya.com.np**
 
 
