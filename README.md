@@ -29,8 +29,6 @@ Skills: C, C++, Core Java, PHP, Laravel, .NET, Flutter, Angular etc...
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sgrkathariya&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sgrkathariya)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sgrkathariya)
 
 ![Profile views](https://gpvc.arturio.dev/sgrkathariya)
