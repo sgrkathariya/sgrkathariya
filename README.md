@@ -1,7 +1,7 @@
 ### Hi 👋, I'm SAGAR KATHARIYA
 #### A TeCH Enthusiast
 
-A Tech passionate From Dhangadhi. My Interest is in Java, Spring Boot, Angular, JavaScript, Cloud Computing & Mobile Application Development.
+A Tech passionate From Dhangadhi. My Interest is in .NET, Angular, Cloud Computing, DevOps & Mobile Application Development.
 
 Skills: C, C++, Java, Spring Boot, PHP, Laravel, JavaScript, Android etc...
 
