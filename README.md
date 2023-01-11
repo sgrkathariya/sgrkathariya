@@ -3,7 +3,7 @@
 
 A Tech Passionate interested and learning .NET, Angular, Cloud Computing, DevOps & Flutter.
 
-Skills: C, C++, Core Java, PHP, Laravel, .NET, Flutter, Angular etc...
+I'm currently working with Laravel
 
 - 📫 How to reach me: **info@sagarkathariya.com.np**
 
